@@ -1,0 +1,109 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Victoria\\source\\repos\\060324 Deck of Cards API\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AEAD5897-BEA1-442E-97F2-67358A34FEC3}|060324 Deck of Cards API\\060324 Deck of Cards API.csproj|c:\\users\\victoria\\source\\repos\\060324 deck of cards api\\060324 deck of cards api\\views\\home\\deckresult.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AEAD5897-BEA1-442E-97F2-67358A34FEC3}|060324 Deck of Cards API\\060324 Deck of Cards API.csproj|solutionrelative:060324 deck of cards api\\views\\home\\deckresult.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AEAD5897-BEA1-442E-97F2-67358A34FEC3}|060324 Deck of Cards API\\060324 Deck of Cards API.csproj|c:\\users\\victoria\\source\\repos\\060324 deck of cards api\\060324 deck of cards api\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AEAD5897-BEA1-442E-97F2-67358A34FEC3}|060324 Deck of Cards API\\060324 Deck of Cards API.csproj|solutionrelative:060324 deck of cards api\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AEAD5897-BEA1-442E-97F2-67358A34FEC3}|060324 Deck of Cards API\\060324 Deck of Cards API.csproj|c:\\users\\victoria\\source\\repos\\060324 deck of cards api\\060324 deck of cards api\\models\\deckmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AEAD5897-BEA1-442E-97F2-67358A34FEC3}|060324 Deck of Cards API\\060324 Deck of Cards API.csproj|solutionrelative:060324 deck of cards api\\models\\deckmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AEAD5897-BEA1-442E-97F2-67358A34FEC3}|060324 Deck of Cards API\\060324 Deck of Cards API.csproj|c:\\users\\victoria\\source\\repos\\060324 deck of cards api\\060324 deck of cards api\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AEAD5897-BEA1-442E-97F2-67358A34FEC3}|060324 Deck of Cards API\\060324 Deck of Cards API.csproj|solutionrelative:060324 deck of cards api\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AEAD5897-BEA1-442E-97F2-67358A34FEC3}|060324 Deck of Cards API\\060324 Deck of Cards API.csproj|c:\\users\\victoria\\source\\repos\\060324 deck of cards api\\060324 deck of cards api\\models\\deckdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AEAD5897-BEA1-442E-97F2-67358A34FEC3}|060324 Deck of Cards API\\060324 Deck of Cards API.csproj|solutionrelative:060324 deck of cards api\\models\\deckdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{131369f2-062d-44a2-8671-91ff31efb4f4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DeckResult.cshtml",
+              "DocumentMoniker": "C:\\Users\\Victoria\\source\\repos\\060324 Deck of Cards API\\060324 Deck of Cards API\\Views\\Home\\DeckResult.cshtml",
+              "RelativeDocumentMoniker": "060324 Deck of Cards API\\Views\\Home\\DeckResult.cshtml",
+              "ToolTip": "C:\\Users\\Victoria\\source\\repos\\060324 Deck of Cards API\\060324 Deck of Cards API\\Views\\Home\\DeckResult.cshtml",
+              "RelativeToolTip": "060324 Deck of Cards API\\Views\\Home\\DeckResult.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-03T18:57:12.317Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Victoria\\source\\repos\\060324 Deck of Cards API\\060324 Deck of Cards API\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "060324 Deck of Cards API\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Victoria\\source\\repos\\060324 Deck of Cards API\\060324 Deck of Cards API\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "060324 Deck of Cards API\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABwAAAByAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-03T18:50:56.698Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DeckDAL.cs",
+              "DocumentMoniker": "C:\\Users\\Victoria\\source\\repos\\060324 Deck of Cards API\\060324 Deck of Cards API\\Models\\DeckDAL.cs",
+              "RelativeDocumentMoniker": "060324 Deck of Cards API\\Models\\DeckDAL.cs",
+              "ToolTip": "C:\\Users\\Victoria\\source\\repos\\060324 Deck of Cards API\\060324 Deck of Cards API\\Models\\DeckDAL.cs",
+              "RelativeToolTip": "060324 Deck of Cards API\\Models\\DeckDAL.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T18:40:17.042Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DeckModel.cs",
+              "DocumentMoniker": "C:\\Users\\Victoria\\source\\repos\\060324 Deck of Cards API\\060324 Deck of Cards API\\Models\\DeckModel.cs",
+              "RelativeDocumentMoniker": "060324 Deck of Cards API\\Models\\DeckModel.cs",
+              "ToolTip": "C:\\Users\\Victoria\\source\\repos\\060324 Deck of Cards API\\060324 Deck of Cards API\\Models\\DeckModel.cs",
+              "RelativeToolTip": "060324 Deck of Cards API\\Models\\DeckModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T18:38:31.561Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\Victoria\\source\\repos\\060324 Deck of Cards API\\060324 Deck of Cards API\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "060324 Deck of Cards API\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\Victoria\\source\\repos\\060324 Deck of Cards API\\060324 Deck of Cards API\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "060324 Deck of Cards API\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T18:37:18.919Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

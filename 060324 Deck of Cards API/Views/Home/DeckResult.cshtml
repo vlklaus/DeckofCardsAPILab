@@ -1,0 +1,14 @@
+﻿@model DeckModel
+
+<a asp-controller="Home" asp-action="DeckResult">Click to draw 5 more cards</a>
+<br />
+
+@{
+    foreach (Card c in Model.cards)
+    {
+        <p>@c.value OF @c.suit</p>
+        <img width="110" height="150" src="@c.image" />
+    }
+}
+<br />
+<a asp-controller="Home" asp-action="DeckResult">Click to draw 5 more cards</a>

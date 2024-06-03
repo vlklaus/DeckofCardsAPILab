@@ -1,0 +1,33 @@
+C:\Users\Victoria\source\repos\060324 Deck of Cards API\060324 Deck of Cards API\obj\Debug\net8.0\060324 Deck of Cards API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Victoria\source\repos\060324 Deck of Cards API\060324 Deck of Cards API\obj\Debug\net8.0\060324 Deck of Cards API.AssemblyInfoInputs.cache
+C:\Users\Victoria\source\repos\060324 Deck of Cards API\060324 Deck of Cards API\obj\Debug\net8.0\060324 Deck of Cards API.AssemblyInfo.cs
+C:\Users\Victoria\source\repos\060324 Deck of Cards API\060324 Deck of Cards API\obj\Debug\net8.0\060324 Deck of Cards API.csproj.CoreCompileInputs.cache
+C:\Users\Victoria\source\repos\060324 Deck of Cards API\060324 Deck of Cards API\obj\Debug\net8.0\060324 Deck of Cards API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Victoria\source\repos\060324 Deck of Cards API\060324 Deck of Cards API\obj\Debug\net8.0\060324 Deck of Cards API.RazorAssemblyInfo.cache
+C:\Users\Victoria\source\repos\060324 Deck of Cards API\060324 Deck of Cards API\obj\Debug\net8.0\060324 Deck of Cards API.RazorAssemblyInfo.cs
+C:\Users\Victoria\source\repos\060324 Deck of Cards API\060324 Deck of Cards API\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\Victoria\source\repos\060324 Deck of Cards API\060324 Deck of Cards API\bin\Debug\net8.0\appsettings.json
+C:\Users\Victoria\source\repos\060324 Deck of Cards API\060324 Deck of Cards API\bin\Debug\net8.0\060324 Deck of Cards API.staticwebassets.runtime.json
+C:\Users\Victoria\source\repos\060324 Deck of Cards API\060324 Deck of Cards API\bin\Debug\net8.0\060324 Deck of Cards API.exe
+C:\Users\Victoria\source\repos\060324 Deck of Cards API\060324 Deck of Cards API\bin\Debug\net8.0\060324 Deck of Cards API.deps.json
+C:\Users\Victoria\source\repos\060324 Deck of Cards API\060324 Deck of Cards API\bin\Debug\net8.0\060324 Deck of Cards API.runtimeconfig.json
+C:\Users\Victoria\source\repos\060324 Deck of Cards API\060324 Deck of Cards API\bin\Debug\net8.0\060324 Deck of Cards API.dll
+C:\Users\Victoria\source\repos\060324 Deck of Cards API\060324 Deck of Cards API\bin\Debug\net8.0\060324 Deck of Cards API.pdb
+C:\Users\Victoria\source\repos\060324 Deck of Cards API\060324 Deck of Cards API\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\Victoria\source\repos\060324 Deck of Cards API\060324 Deck of Cards API\obj\Debug\net8.0\060324 Deck of Cards API.csproj.AssemblyReference.cache
+C:\Users\Victoria\source\repos\060324 Deck of Cards API\060324 Deck of Cards API\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\Victoria\source\repos\060324 Deck of Cards API\060324 Deck of Cards API\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\Victoria\source\repos\060324 Deck of Cards API\060324 Deck of Cards API\obj\Debug\net8.0\staticwebassets\msbuild.060324 Deck of Cards API.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Victoria\source\repos\060324 Deck of Cards API\060324 Deck of Cards API\obj\Debug\net8.0\staticwebassets\msbuild.build.060324 Deck of Cards API.props
+C:\Users\Victoria\source\repos\060324 Deck of Cards API\060324 Deck of Cards API\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.060324 Deck of Cards API.props
+C:\Users\Victoria\source\repos\060324 Deck of Cards API\060324 Deck of Cards API\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.060324 Deck of Cards API.props
+C:\Users\Victoria\source\repos\060324 Deck of Cards API\060324 Deck of Cards API\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\Victoria\source\repos\060324 Deck of Cards API\060324 Deck of Cards API\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Victoria\source\repos\060324 Deck of Cards API\060324 Deck of Cards API\obj\Debug\net8.0\scopedcss\bundle\060324 Deck of Cards API.styles.css
+C:\Users\Victoria\source\repos\060324 Deck of Cards API\060324 Deck of Cards API\obj\Debug\net8.0\scopedcss\projectbundle\060324 Deck of Cards API.bundle.scp.css
+C:\Users\Victoria\source\repos\060324 Deck of Cards API\060324 Deck of Cards API\obj\Debug\net8.0\060324 D.879A48B7.Up2Date
+C:\Users\Victoria\source\repos\060324 Deck of Cards API\060324 Deck of Cards API\obj\Debug\net8.0\060324 Deck of Cards API.dll
+C:\Users\Victoria\source\repos\060324 Deck of Cards API\060324 Deck of Cards API\obj\Debug\net8.0\refint\060324 Deck of Cards API.dll
+C:\Users\Victoria\source\repos\060324 Deck of Cards API\060324 Deck of Cards API\obj\Debug\net8.0\060324 Deck of Cards API.pdb
+C:\Users\Victoria\source\repos\060324 Deck of Cards API\060324 Deck of Cards API\obj\Debug\net8.0\060324 Deck of Cards API.genruntimeconfig.cache
+C:\Users\Victoria\source\repos\060324 Deck of Cards API\060324 Deck of Cards API\obj\Debug\net8.0\ref\060324 Deck of Cards API.dll
